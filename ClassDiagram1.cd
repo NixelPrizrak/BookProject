@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BountyEffectScr">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BountyEffectScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyScr">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAGAAA0OACAAAEAAAQAAAAAAIAAAAgABAAgQoAAAQ=</HashCode>
+      <FileName>Assets\Scripts\EnemyScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemySpawnerScr">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAARAACAAAAAAEAAAAAAAAAAAQAAAAQAQAOAQAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemySpawnerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserList">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameControllerScr">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAIAEAAAAAAABAAAAACQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManagerScr">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AwVAACABAABwARBAYAIAAAAAAAIgBAQIYhkAAAABAOA=</HashCode>
+      <FileName>Assets\Scripts\GameManagerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScr">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAEEAAAABAAAADEwAAQCAIACAAAAAABADAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RatingScr">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAAAAAAAAAAAIEAAAAAEAADAgIAA=</HashCode>
+      <FileName>Assets\Scripts\RatingScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellOrUpgradeTowerScr">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQACAAAQDAAIAAAQAAgAAAAAAAAAgAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SellOrUpgradeTowerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingScr">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgCBAAAAACAAAAAgSAAAAAAAAAAAIgEAAAAEAgQAAAA=</HashCode>
+      <FileName>Assets\Scripts\SettingScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopItemScr" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAYAEAAAQoSABAAAAAAAAAAAAEAgAAAAEAAAYQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShopItemScr.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ShopScr">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAQACAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShopScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerBuildScr">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAQCAAAEAAAABAAAAgUAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TowerBuildScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerProjectileScr">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAALCAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\TowerProjectileScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerScr">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAACAZDIABACAAABAAAAgUAAAAAABMAQAAIAAIAQ=</HashCode>
+      <FileName>Assets\Scripts\TowerScr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Tower">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAACAAAAAAAAAQAAAAAAAAgAQAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TowerProjectile">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Enemy">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAACAAAAAAAAAABAAACAAAAAAAAAAAAAYA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="TowerType">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameControllerScr.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
